@@ -1,3 +1,4 @@
 {
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "python.pythonPath": "/home/rudi/.local/share/virtualenvs/tweetme2-90K5O_A0"
 }
